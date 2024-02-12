@@ -71,3 +71,14 @@ body{
     color: black;
 }
 
+@media screen and (max-width: 500px){
+    .home{
+        width: 300px;
+        height: 900px;
+    }
+    .home div{
+        width: 200px;
+    }
+
+    
+}
